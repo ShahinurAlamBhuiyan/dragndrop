@@ -1,5 +1,8 @@
 # 🧩 Drag n Drop Task Board
 
+🔗 **Live Demo**: [https://drag-drop-app.vercel.app](https://drag-drop-app.vercel.app)
+
+
 A simple and elegant **Kanban-style task board** built with **Vite + React + TypeScript**, styled using **Tailwind CSS**, and powered by **Dnd Kit** for drag-and-drop functionality.
 
 
@@ -15,7 +18,7 @@ A simple and elegant **Kanban-style task board** built with **Vite + React + Typ
 
 ## 🚀 Features
 
-- 📋 Create draggable task cards
+- 📋 Create draggable task cards (under development)
 - 🧱 Organize tasks by status: **To Do**, **In Progress**, **Done**
 - 🖱️ Smooth drag-and-drop using Dnd Kit
 - 💅 Dark-themed UI with Tailwind CSS
@@ -40,3 +43,13 @@ npm install
 npm run dev
 ```
 - Open your browser and go to http://localhost:5173
+
+## 👨‍💻 Author
+
+**Shahinur Alam Bhuiyan**  
+Frontend Developer & CS Student  
+[GitHub](https://github.com/shahinuralambhuiyan) • [LinkedIn](https://www.linkedin.com/in/shahinur-alam-bhuiyan/)
+
+---
+
+© 2025 Drag n Drop. All rights reserved.
