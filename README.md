@@ -1,6 +1,6 @@
 # 🧩 Drag n Drop Task Board
 
-🔗 **Live Demo**: [https://drag-drop-app.vercel.app](https://drag-drop-app.vercel.app)
+🔗 **Live Demo**: [https://dragndrop24.vercel.app/](https://dragndrop24.vercel.app/)
 
 
 A simple and elegant **Kanban-style task board** built with **Vite + React + TypeScript**, styled using **Tailwind CSS**, and powered by **Dnd Kit** for drag-and-drop functionality.
@@ -30,8 +30,8 @@ A simple and elegant **Kanban-style task board** built with **Vite + React + Typ
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/shahinur-alam/drag-drop.git
-cd drag-drop
+git clone https://github.com/shahinur-alam/dragndrop.git
+cd dragndrop
 ```
 ### 2. Install Dependencies
 ```bash
