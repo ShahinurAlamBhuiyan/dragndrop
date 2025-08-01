@@ -60,7 +60,7 @@ function App() {
   return (
     <div className="p-4 flex flex-col justify-center gap-16 items-center w-screen min-h-screen bg-black">
       <h1 className='text-white text-3xl font-semibold'>Drag n Drop</h1>
-      <div className="flex gap-8">
+      <div className="flex flex-wrap justify-center items-center gap-8">
         <DndContext onDragEnd={handleDragEnd}>
           {COLUMNS.map((column) => {
             return (
